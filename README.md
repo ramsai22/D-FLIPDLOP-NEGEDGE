@@ -1,4 +1,3 @@
-
 # D-FLIPDLOP-NEGEDGE
 
 **AIM:**
@@ -45,8 +44,7 @@ Check for Race Conditions: Ensure that there are no race conditions or undefined
 
 **PROGRAM**
 
- Developed by: paida ram sai
- RegisterNumber:212223110034
+ Developed by: paida ram sai RegisterNumber:212223110034
 ```
 module Exp8(D,clock,reset,Q);
 input D,clock,reset;
